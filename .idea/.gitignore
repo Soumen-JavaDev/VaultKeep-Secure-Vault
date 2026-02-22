@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Backend ignores
+vaultkeep-backend/target/
+vaultkeep-backend/.idea/
+
+# Frontend ignores
+vaultkeep-frontend/node_modules/
+vaultkeep-frontend/dist/
+
+# OS files
+.DS_Store
